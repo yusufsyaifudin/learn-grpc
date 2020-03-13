@@ -52,7 +52,7 @@ grpcurl -v -plaintext -protoset learngrpc.protoset -d '{"message": "Hello World"
 
 Will look like this:
 
-![Image](https://raw.githubusercontent.com/yusufsyaifudin/learn-grpc/master/Screen_Shot_2020-03-13_14.05.29.png)
+![Image](https://raw.githubusercontent.com/yusufsyaifudin/learn-grpc/master/assets/img/Screen_Shot_2020-03-13_14.05.29.png)
 
 ## Generate Proto
 Before generate, please install `protoc` command:
